@@ -1,1 +1,1 @@
-This is a demo file inside feature1
+This is a demo file inside  main/feature1
