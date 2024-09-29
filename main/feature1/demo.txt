@@ -1,2 +1,6 @@
 This is a demo file inside  main/feature1
+<<<<<<< HEAD
 Adding another line
+=======
+Adding third line
+>>>>>>> feature/feature1
