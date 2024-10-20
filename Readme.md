@@ -1,1 +1,1 @@
-# This project is the demonstration of Git and Github
+git and github demonstration practical for DevOps
